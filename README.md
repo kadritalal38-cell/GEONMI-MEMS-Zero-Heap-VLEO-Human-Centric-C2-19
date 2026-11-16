@@ -1,7 +1,20 @@
 # GEONMI-MEMS Zero-Heap VLEO: Human-Centric Command & Control (C2) & Geo-Physical Ground Segment Blueprint (Turnkey Sovereign Infrastructure v2.0)019
 
+<div align="center">
 
-`#VLEO` `#Zero-Heap` `#GEONMI-MEMS` `#Human-Centric-C2` `#Turnkey-Infrastructure` `#Human-Factors-Engineering` `#Aerospace-C2` `#Civilian-Commercial` `#ISO-11064` `#Deterministic-Scheduler` `#Geothermal-Cooling`
+![Module](https://shields.io)
+![Architecture](https://shields.io)
+![Orbit](https://shields.io)
+![C2 Design](https://shields.io)
+
+![Cooling](https://shields.io)
+![Standards](https://shields.io)
+![Domain](https://shields.io)
+![License](https://shields.io)
+
+</div>
+
+
 
 ---
 
