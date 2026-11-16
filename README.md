@@ -40,6 +40,7 @@ Designed for high commercial viability, the economic model of this infrastructur
 - **Interference Mitigation Efficiency:** **40% – 50%** hardware cost savings derived from natural topographical RFI containment *(estimated figure)*.
 - **Operational Reliability Gain:** **45% – 60%** decrease in human factor errors through ergonomic C2 workspace optimization and deterministic edge computing uptime *(estimated figure)*.
 
+<img width="1986" height="1023" alt="IMG-20261117-WA7523" src="https://github.com/user-attachments/assets/fb06d861-a25f-44e0-b689-60bf5a7f8eb5" />
 ---
 
 ## 🔒 Intellectual Property & Legal Notice
