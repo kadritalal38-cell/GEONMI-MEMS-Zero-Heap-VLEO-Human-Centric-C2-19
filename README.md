@@ -28,6 +28,7 @@ This comprehensive framework aligns fully with international aerospace standards
 
 <img width="1978" height="1024" alt="IMG-20261117-WA7797" src="https://github.com/user-attachments/assets/b96ff1a1-5217-44d2-801e-e823bb2c4861" />
 
+<img width="1855" height="1195" alt="IMG-20261117-WA7059" src="https://github.com/user-attachments/assets/cb5d4706-d8a9-4489-bed1-4ad5629598e4" />
 ---
 
 ## 💰 Market Attractiveness & Return on Investment (ROI) Metrics
