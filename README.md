@@ -26,6 +26,8 @@ This comprehensive framework aligns fully with international aerospace standards
 - **Human-Machine Ergonomic Synergy:** Implements rigorous human factors engineering to slash operator response times and drastically minimize human error during critical orbital tracking and emergency maneuver windows.
 - **Turnkey Deployment Agility:** Replaces heavy, permanent civil construction with rapid-deployment, skid-mounted modular pods that accelerate time-to-market significantly compared to traditional ground station builds.
 
+<img width="1978" height="1024" alt="IMG-20261117-WA7797" src="https://github.com/user-attachments/assets/b96ff1a1-5217-44d2-801e-e823bb2c4861" />
+
 ---
 
 ## 💰 Market Attractiveness & Return on Investment (ROI) Metrics
